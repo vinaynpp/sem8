@@ -1,0 +1,66 @@
+type,content,value,dumy
+Q,Parts-of-Speech tagging determines ___________,M,1
+A,part-of-speech for each word dynamically as per meaning of the sentence,0,1
+A,part-of-speech for each word dynamically as per sentence structure,0,2
+A,all part-of-speech for a specific word given as input,0,3
+A,all of the mentioned,1,4
+Q,The words window and room are in a lexical semantic relation,M,1
+A,hypernym  hyponym,0,1
+A,hypernym  meronym,0,2
+A,holonym  hyponym,0,3
+A,meronym  holonym,1,4
+Q,What type of ambiguity exists in the word sequence Time flies?,M,1
+A,Syntactic,0,1
+A,Semantic,1,2
+A,Phonological,0,3
+A,Anaphoric,0,4
+Q,"In an HMM,tag transition probabilities measure",M,1
+A,The likelihood of a POS tag given a word,0,1
+A,The likelihood of a POS tag given the preceding tag,1,2
+A,The likelihood of a word given a POS tag,0,3
+A,The likelihood of a POS tag given all preceding tags,0,4
+Q,A single lexeme with multiple related meanings is known as,M,1
+A,Hyponymy,0,1
+A,Polysemy,1,2
+A,Homonymy,0,3
+A,Antonymy ,0,4
+Q,A relation that holds between words that have the same form with unrelated meanings is known as,M,1
+A,Hyponymy,0,1
+A,Polysemy,0,2
+A,Homonymy,1,3
+A,Antonymy,0,4
+Q,WordNet consists of ________ separate databases,M,1
+A,1,0,1
+A,2,0,2
+A,3,1,3
+A,4,0,4
+Q,The _________ approach eliminates the need for a large training set by relying on a relatively small number of instances of each sense for each lexeme of interest,M,1
+A,Supervised,0,1
+A,Unsupervised,0,2
+A,Semi-Supervised,0,3
+A,Bootstrapping,1,4
+Q,Does Rajdhani train serve lunch? Which kind of sentence is this,M,1
+A,Imperative ,0,1
+A,Yes/No Questions,1,2
+A,Wh - Questions ,0,3
+A,Declarative ,0,4
+Q,The relation Tiger - Tigress refers to  ,M,1
+A,Implicitly Gradable Antonym Pair ,0,1
+A,Complimentary Antonym Pair,1,2
+A,Relation Antonym Pair,0,3
+A,None of these above,0,4
+Q,SUV is _________ of Car,M,1
+A,Hyponym,1,1
+A,Hypernym,0,2
+A,Holonym,0,3
+A,Meronym,0,4
+Q,"Which is the right way to give semantic attachments for,""CORONA train schedule """,M,1
+A,"NN(a,Schedule) ᴧ NN(x,Train) ᴧ NN(x,CORONA)",0,1
+A,"Isa(a,Schedule) ᴧ NN(x,Train) ᴧ NN(x,CORONA)",0,2
+A,"Isa(a,Schedule) ᴧ (x,Train) ᴧ NN(x,CORONA) ",0,3
+A,"λ Isa(a, Schedule) ᴧ NN(x, Train) ᴧ NN(x, CORONA)",1,4
+Q,"Which is the right way to give semantic attachments for,""Mumbai's LocalTrain""",M,1
+A,"∃xIsa(x, LocalTrain) ᴧ NN(x, Mumbai)",0,1
+A,"∃xIsa(x, LocalTrain) ᴧ GN(x, Mumbai)",1,2
+A,"∀xIsa(x, LocalTrain) ᴧ GN(x, Mumbai) ",0,3
+A,"∀xIsa(x, LocalTrain) ᴧ NN(x, Mumbai)",0,4

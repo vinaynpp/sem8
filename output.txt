@@ -1,90 +1,75 @@
-What are characteristics of distributed file system ?
- **Its users, servers and storage devices are dispersed** 
- Service activity is not carried out across the network 
- They have single centralized data repository 
- There are multiple dependent storage devices 
-What are not the characteristics of a DFS ?
-  login transparency and access transparency 
-  Files need not contain information about their physical location 
- ** No Multiplicity of users** 
- No Multiplicity if files 
-What are the advantages of file replication ?
- **Improves availability &performance** 
- Decreases performance 
- They are consistent 
- Improves speed 
-The file once created can not be changed is called ________
- **immutable file** 
-  mutex file 
-  mutable file 
-  Mutual exclusive file 
-_______ is not possible in distributed file system
-  File replication 
- **Migration** 
- Client interface 
- Remote access 
-Which one of the following hides the location where in the network the file is stored?
- **transparent distributed file system** 
- hidden distributed file system 
-  escaped distribution file system 
- spy distributed file system 
-In distributed file system, a file is uniquely identified by _________________
- host name 
-  local name 
- **the combination of host name and local name** 
- Priority number 
-The NFS client and server modules communicate using ...................................
- **remote procedure call** 
- Function 
- Interrupt 
- RMI 
-The automounter maintains a table of....................... with a reference to one or more NFS servers listed against each.
- remote procedure call 
- mount protocol 
- **Pathnames** 
- Lookup 
-The-------------- operation looks for a single part of a pathname in a given directory and returns the corresponding file handle and file attributes.
- svmlink 
- rmdir 
- Readlink 
- **Lookup** 
-The NFS client module caches the results of ------------------- operations in order to reduce the number of requests transmitted to servers.�
- svmlink,rmdir, read and write 
- rmdir,read,lookup and write 
- **read, write, getattr, lookup and readdir** 
- Lookup, getattr, readdir, and rmdir 
-AFS has two unusual design characteristics:
- Reliability, Scalability 
- **Whole-file serving, Whole-file caching** 
- file serving, file catching 
- security, file catching 
-The name space of AFS seen by user processes is a conventional UNIX directory hierarchy, with a specific subtree ----------- containing all of the shared files.�
- **cmu** 
- tmp 
- root 
- lib 
-AFS is implemented as two software components that exist as UNIX processes called -------- and -------
- **Vice and Venus** 
- tmp and root 
- Vice and Lib 
- lib and venus 
-A flat file service is implemented by the -------�
- Venus 
- lib 
- **Vice servers** 
- Venus processes 
-The ------- provides a mapping between text names forfiles and their UFIDs.
- object service 
- file service 
- **directory service** 
- thread service 
-A------- runs in each client computer, integrating andextending the operations of the flat file service and the directory service
- ** client module** 
- file module 
- service module 
- server module 
-The X.500 name tree is called the ------------
- **Directory Information Tree (DIT)** 
- Directory Retrieval Tree (DRT) 
- Directory Traversal Tree (DTT) 
- Directory Searching Tree (DST) 
+What is Machine Translation?
+ **Converts one human language to another** 
+ Converts human language to machine language 
+ Converts any human language to English 
+ Converts Machine language to human language 
+Many words have more than one meaning; we have to select the meaning which makes the most sense in context. This can be resolved by ____________
+ Fuzzy Logic 
+ **Word Sense Disambiguation** 
+ Shallow Semantic Analysis 
+ All of the mentioned 
+In linguistic morphology _____________ is the process for reducing inflected words to their root form.
+ Rooting 
+ **Stemming** 
+ Text-Proofing 
+ Both Rooting & Stemming 
+______________systems were the first commercial machine translation systems and are based on linguistic rules that allow the words to be put in different places and to have different meaning depending on context.
+ **Rules Based Machine Translation** 
+ Statistical Machien Transaltion 
+ Hybrid Machine Translation 
+ Neural Machine Translation. 
+A metric derived by taking the log of N divided by the document frequency where N is the total number of documents in a collection is called:
+ document frequency 
+ tf-idf weight 
+ collection frequency 
+ **inverse document frequency** 
+A measure of similarity between two vectors which is determined by measuring the angle between them is called:
+ **cosine similarity** 
+ sin similarity 
+ vector similarity 
+ vector scoring 
+Find entity in following statement using Named entity recognition technique MaMark Zuckerberg is one of the founders of Facebook, a company from the United States
+ Person: Mark Zuckerberg 
+ Company: Facebook 
+ Location: United States 
+ **All of above** 
+I went to the school, and they told me come on next day. What type of ambiguity present in the given sentence?
+ Syntactic ambiguity 
+ **Anaphoric ambiguity** 
+ Semantic ambiguity 
+ Lexical ambiguity 
+Choose form the following areas where NLP can be useful.
+ Automatic Text Summarization 
+ Automatic Question-Answering Systems 
+ Information Retrieval 
+ **All of the mentioned** 
+Which of the following is used study of construction of words from primitive meaningful units?
+ Phonology 
+ **Morphology** 
+ Morpheme 
+ Shonology 
+Which of the following is merits of Context-Free Grammar?
+ **Simplest style of grammar** 
+ They are highly precise. 
+ High speed 
+ Difficult 
+In Named Entity Recognition, approach combines machine learning with rule-based systems
+ Lexicon 
+ Ruled-based 
+ Machine-based 
+ **Hybrid** 
+What is Morphological Segmentation?
+ Does Discourse Analysis 
+ **Separate words into individual morphemes and identify the class of the morphemes** 
+ Is an extension of propositional logic 
+ None of the mentioned 
+Summarization which extracts keyphrases and creates a summary, without adding any extra information
+ **Extraction-based** 
+ Abstraction-based 
+ Auto-correct 
+ None 
+Entities can be name of
+ People 
+ Organizations 
+ Locations 
+ **All** 

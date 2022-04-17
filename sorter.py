@@ -20,7 +20,7 @@ with open('output.txt', 'w') as f:
 #             else:
 #                 f.write(""+q+"\n "+o1+"\n "+o2+"\n "+o3+"\n "+o4+"\n")
 
-with open('DC6.csv') as file:
+with open('NLP6.csv') as file:
     reader = csv.reader(file)
     next(reader)  # Skip header row
     

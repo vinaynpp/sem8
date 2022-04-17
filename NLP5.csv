@@ -1,0 +1,76 @@
+type,content,value,dumy
+Q,What is Coreference Resolution,M,1
+A,Anaphora Resolution,0,1
+A,"In a larger chunk of text, determine which words refer to the same objects.",1,2
+A,"In a small chunk of text, determine which words refer to the same objects.",0,3
+A,"In a larger chunk of text, determine which paragraph refer to the same objects.",0,4
+Q,"'Ram is good boy. He plays football'. Here, the term 'he' is referred to as",M,1
+A,Antecedent,0,1
+A,Menorym,0,2
+A,Anaphoric,1,3
+A,Antonym,0,4
+Q,"'Ram first played cricket then he played football. He then said that he liked this better than that'. Here, what is 'this' and 'that'?",M,1
+A,Football and Cricket respectively,1,1
+A,Cricket and Football respectively,0,2
+A,Ram and Cricket,0,3
+A,Ram and Football,0,4
+Q,In the sentence John went to Bills car dealership to check out an Acura Integra. He looked at it for about an hour which terms can be called as corefer?,M,1
+A,John and Bill,0,1
+A,Bill and Acura Integra,0,2
+A,John and He,1,3
+A,Bill and He,0,4
+Q,"subsequent reference to an already introduced entity; ""referring back"" (Paul's on the phone. I don't wanna talk to him.)",M,1
+A,face,0,1
+A,words,0,2
+A,anaphora,1,3
+A,cataphora,0,4
+Q,uses typical syntactic form; when an interrogative structure is used with the function of a question (Can you ride a bicycle?),M,1
+A,face-saving act,0,1
+A,speech act,0,2
+A,indirect speech act,0,3
+A,direct speech act,1,4
+Q,"used to point to things (it, this, these) and people (him, them, those idiots) (We built this city on rock and roll.)",M,1
+A,spatial deixis,0,1
+A,Pragmatics,0,2
+A,temporal deixis,0,3
+A,personal deixis,1,4
+Q,___ is an important aspect of language for both children and adults. It involves both verbal & non-verbal communication.,M,1
+A,face,0,1
+A,politeness,0,2
+A,reference,0,3
+A,Pragmatics,1,4
+Q,"Our interpretation of the ""meaning"" of the sign is not based solely on the ___, but on what we think the writer intended to communicate.",M,1
+A,anaphora,0,1
+A,words,1,2
+A,face,0,3
+A,context,0,4
+Q,the words that pronouns refer back to; first mention (Allie likes her coach. She has learned a lot from her.),M,1
+A,antecedent,1,1
+A,context,0,2
+A,reference,0,3
+A,speech act,0,4
+Q,Some questions/statements can have more than one ___.,M,1
+A,presupposition,0,1
+A,context,0,2
+A,supposition,1,3
+A,speech act,0,4
+Q,showing awareness and consideration of another person's face,M,1
+A,context,0,1
+A,reference,0,2
+A,words,0,3
+A,politeness,1,4
+Q,"When there is something more to or something different from the literal meaning that is conveyed, we explain those situations using ___.",M,1
+A,politeness,0,1
+A,reference,0,2
+A,pragmatics,1,3
+A,face,0,4
+Q,Which of the following is NOT a discourse feature we would expect to see in spontaneous conversations?,M,1
+A,emoticons,1,1
+A,openings and closings,0,2
+A,topic loops,0,3
+A,topic shifts,0,4
+Q,Which one is the expanded noun phrase?,M,1
+A,The young girl sang loudly.,1,1
+A,girl,0,2
+A,sang loudly,0,3
+A,the young girl,0,4

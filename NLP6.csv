@@ -1,0 +1,76 @@
+type,content,value,dumy
+Q,What is Machine Translation?,M,1
+A,Converts one human language to another,1,1
+A,Converts human language to machine language,0,2
+A,Converts any human language to English,0,3
+A,Converts Machine language to human language,0,4
+Q,Many words have more than one meaning; we have to select the meaning which makes the most sense in context. This can be resolved by ____________,M,1
+A,Fuzzy Logic,0,1
+A,Word Sense Disambiguation,1,2
+A,Shallow Semantic Analysis,0,3
+A,All of the mentioned,0,4
+Q,In linguistic morphology _____________ is the process for reducing inflected words to their root form.,M,1
+A,Rooting,0,1
+A,Stemming,1,2
+A,Text-Proofing,0,3
+A,Both Rooting & Stemming,0,4
+Q,______________systems were the first commercial machine translation systems and are based on linguistic rules that allow the words to be put in different places and to have different meaning depending on context.,M,1
+A,Rules Based Machine Translation,1,1
+A,Statistical Machien Transaltion,0,2
+A,Hybrid Machine Translation,0,3
+A,Neural Machine Translation.,0,4
+Q,A metric derived by taking the log of N divided by the document frequency where N is the total number of documents in a collection is called:,M,1
+A,document frequency,0,1
+A,tf-idf weight,0,2
+A,collection frequency,0,3
+A,inverse document frequency,1,4
+Q,A measure of similarity between two vectors which is determined by measuring the angle between them is called:,M,1
+A,cosine similarity,1,1
+A,sin similarity,0,2
+A,vector similarity,0,3
+A,vector scoring,0,4
+Q,"Find entity in following statement using Named entity recognition technique MaMark Zuckerberg is one of the founders of Facebook, a company from the United States",M,1
+A,Person: Mark Zuckerberg,0,1
+A,Company: Facebook,0,2
+A,Location: United States,0,3
+A,All of above,1,4
+Q,"I went to the school, and they told me come on next day. What type of ambiguity present in the given sentence?",M,1
+A,Syntactic ambiguity,0,1
+A,Anaphoric ambiguity,1,2
+A,Semantic ambiguity,0,3
+A,Lexical ambiguity,0,4
+Q,Choose form the following areas where NLP can be useful.,M,1
+A,Automatic Text Summarization,0,1
+A,Automatic Question-Answering Systems,0,2
+A,Information Retrieval,0,3
+A,All of the mentioned,1,4
+Q,Which of the following is used study of construction of words from primitive meaningful units?,M,1
+A,Phonology,0,1
+A,Morphology,1,2
+A,Morpheme,0,3
+A,Shonology,0,4
+Q,Which of the following is merits of Context-Free Grammar?,M,1
+A,Simplest style of grammar,1,1
+A,They are highly precise.,0,2
+A,High speed,0,3
+A,Difficult,0,4
+Q,"In Named Entity Recognition, approach combines machine learning with rule-based systems",M,1
+A,Lexicon,0,1
+A,Ruled-based,0,2
+A,Machine-based,0,3
+A,Hybrid,1,4
+Q,What is Morphological Segmentation?,M,1
+A,Does Discourse Analysis,0,1
+A,Separate words into individual morphemes and identify the class of the morphemes,1,2
+A,Is an extension of propositional logic,0,3
+A,None of the mentioned,0,4
+Q,"Summarization which extracts keyphrases and creates a summary, without adding any extra information",M,1
+A,Extraction-based,1,1
+A,Abstraction-based,0,2
+A,Auto-correct,0,3
+A,None,0,4
+Q,Entities can be name of,M,1
+A,People,0,1
+A,Organizations,0,2
+A,Locations,0,3
+A,All,1,4
