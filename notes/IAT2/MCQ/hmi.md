@@ -1,4 +1,4 @@
-# HMI
+# HMI MCQ
 
 * MCQ
   * Q.1 Which of the following is not the part of Information Architecture:

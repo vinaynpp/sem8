@@ -1,4 +1,4 @@
-# FM
+# FM MCQ
 
 * MCQ
   * An investor bought 100 shares of ABC ltd @ Rs. 225 per share at the beginning of the year. The par value of each share is Rs. 10. The company paid a dividend @25 % during the year.  She sells all the shares at the end of the year at the price of Rs. 267.5 per share. Calculate the total returns she received.
