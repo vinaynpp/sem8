@@ -1,6 +1,7 @@
 # sem8
 
 here are the subject links
+not everything is added work in progress
 
 ## [Finance Management (FM)](notes/fm.md)
 
