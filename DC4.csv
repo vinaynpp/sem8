@@ -1,0 +1,66 @@
+type,content,value,dumy
+Q,Which of the following is not a category of load balancing algorithm.,M,1
+A, Static,0,1
+A,Deterministic,0,2
+A, Distributed,0,3
+A, Decentralized,1,4
+Q,Load-balancing approach is used -------,M,1
+A, Tasks are scheduled to improve performance ,0,1
+A,Tasks are distributed among nodes so as to equalize the workload of nodes of the system,1,2
+A,Simply attempts to avoid idle nodes while processes wait for being processed,0,3
+A, Minimization of IPC costs,0,4
+Q, Remote processes are given higher priority than local processes is known as,M,1
+A, Selfish,0,1
+A, Intermediate,0,2
+A, Altruistic,1,3
+A,Controlled,0,4
+Q,Location policy in sender initiated process migration uses ------ variations,M,1
+A,2,0,1
+A, 3,1,2
+A, 4,0,3
+A, 5,0,4
+Q,In ------------- method a node broadcast a State-Information-Request message when its state switches from normal to either under loaded or overloaded region,M,1
+A, Exchange by polling,0,1
+A,On-demand exchange,1,2
+A, Periodic broadcast,0,3
+A,Broadcast when state changes,0,4
+Q,In __________ load balancing algorithms entities act as autonomous ones and make scheduling decisions independently from other entities,M,1
+A,Cooperative,0,1
+A,Noncooperative,1,2
+A,Synchronous operated,0,3
+A,All ,0,4
+Q,Following is NOT Issue in Designing Load Balancing Algorithms,M,1
+A,State Information Exchange Policy,0,1
+A,Location Policy,0,2
+A,Load Estimation Policy,0,3
+A,No A priori Knowledge about the processes,1,4
+Q,To improve performance ----- approach is used,M,1
+A,Task assignment ,1,1
+A,Load Estimation ,0,2
+A,Load balancing,0,3
+A,Load sharing,0,4
+Q,"Tasks are distributed among nodes so as ------- the workload of nodes of the system in load balancing approach",M,1
+A,to equalize ,1,1
+A,to prioritize,0,2
+A,to complete,0,3
+A,to fulfill,0,4
+Q,"Tasks are distributed among nodes so as to equalize  the workload of nodes of the system-------- approach is used",M,1
+A,Task assignment ,0,1
+A,Load Estimation ,0,2
+A,Load balancing,1,3
+A,Load sharing,0,4
+Q,"Simply attempts to avoid ----- nodes while processes wait for being processed in load sharing approach",M,1
+A,heavy,0,1
+A,overloaded,0,2
+A,light loaded,0,3
+A,idle,1,4
+Q,Simply attempts to avoid idle nodes while processes wait for being processed ------ approach is used,M,1
+A,Task assignment ,0,1
+A,Load Estimation ,0,2
+A,Load balancing,0,3
+A,Load sharing,1,4
+Q,"To avoid poor scalability coming from broadcast messages the partner node is searched by polling the other nodes on by one, until poll limit is reached is known as--------",M,1
+A, Exchange by polling,1,1
+A,On-demand exchange,0,2
+A, Periodic broadcast,0,3
+A,Broadcast when state changes,0,4

@@ -1,0 +1,91 @@
+type,content,value,dumy
+Q,What are characteristics of distributed file system ?,M,1
+A,"Its users, servers and storage devices are dispersed",1,1
+A,Service activity is not carried out across the network,0,2
+A,They have single centralized data repository,0,3
+A,There are multiple dependent storage devices,0,4
+Q,What are not the characteristics of a DFS ?,M,1
+A, login transparency and access transparency,0,1
+A, Files need not contain information about their physical location,0,2
+A, No Multiplicity of users,1,3
+A,No Multiplicity if files,0,4
+Q,What are the advantages of file replication ?,M,1
+A,Improves availability &performance,1,1
+A,Decreases performance,0,2
+A,They are consistent,0,3
+A,Improves speed,0,4
+Q,The file once created can not be changed is called ________,M,1
+A,immutable file,1,1
+A, mutex file,0,2
+A, mutable file,0,3
+A, Mutual exclusive file,0,4
+Q,_______ is not possible in distributed file system,M,1
+A, File replication,0,1
+A,Migration,1,2
+A,Client interface,0,3
+A,Remote access,0,4
+Q,Which one of the following hides the location where in the network the file is stored?,M,1
+A,transparent distributed file system,1,1
+A,hidden distributed file system,0,2
+A, escaped distribution file system,0,3
+A,spy distributed file system,0,4
+Q,"In distributed file system, a file is uniquely identified by _________________",M,1
+A,host name,0,1
+A, local name,0,2
+A,the combination of host name and local name,1,3
+A,Priority number,0,4
+Q,The NFS client and server modules communicate using ...................................,M,1
+A,remote procedure call,1,1
+A,Function,0,2
+A,Interrupt,0,3
+A,RMI,0,4
+Q,The automounter maintains a table of....................... with a reference to one or more NFS servers listed against each.,M,1
+A,remote procedure call,0,1
+A,mount protocol,0,2
+A,Pathnames,1,3
+A,Lookup,0,4
+Q,The-------------- operation looks for a single part of a pathname in a given directory and returns the corresponding file handle and file attributes.,M,1
+A,svmlink,0,1
+A,rmdir,0,2
+A,Readlink,0,3
+A,Lookup,1,4
+Q,The NFS client module caches the results of ------------------- operations in order to reduce the number of requests transmitted to servers.�,M,1
+A,"svmlink,rmdir, read and write",0,1
+A,"rmdir,read,lookup and write",0,2
+A,"read, write, getattr, lookup and readdir",1,3
+A,"Lookup, getattr, readdir, and rmdir",0,4
+Q,AFS has two unusual design characteristics:,M,1
+A,"Reliability, Scalability",0,1
+A,"Whole-file serving, Whole-file caching",1,2
+A,"file serving, file catching",0,3
+A,"security, file catching",0,4
+Q,"The name space of AFS seen by user processes is a conventional UNIX directory hierarchy, with a specific subtree ----------- containing all of the shared files.�",M,1
+A,cmu,1,1
+A,tmp,0,2
+A,root,0,3
+A,lib,0,4
+Q,AFS is implemented as two software components that exist as UNIX processes called -------- and -------,M,1
+A,Vice and Venus,1,1
+A,tmp and root,0,2
+A,Vice and Lib,0,3
+A,lib and venus,0,4
+Q,A flat file service is implemented by the -------�,M,1
+A,Venus,0,1
+A,lib,0,2
+A,Vice servers,1,3
+A,Venus processes,0,4
+Q,"The ------- provides a mapping between text names forfiles and their UFIDs.",M,1
+A,object service,0,1
+A,file service,0,2
+A,directory service,1,3
+A,thread service,0,4
+Q,"A------- runs in each client computer, integrating andextending the operations of the flat file service and the directory service",M,1
+A, client module,1,1
+A,file module,0,2
+A,service module,0,3
+A,server module,0,4
+Q,The X.500 name tree is called the ------------,M,1
+A,Directory Information Tree (DIT),1,1
+A,Directory Retrieval Tree (DRT),0,2
+A,Directory Traversal Tree (DTT),0,3
+A,Directory Searching Tree (DST),0,4

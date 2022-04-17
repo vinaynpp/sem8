@@ -1,0 +1,76 @@
+type,content,value,dumy
+Q,"Updating a website with an editor, if you want to view your updated website, you have to refresh it, otherwise the browser uses the old cached website content , Is example of__________",M,1
+A,Monotonic Reads,0,1
+A,Monotonic Writes,0,2
+A,Read Your Writes,1,3
+A,Writes Follow Reads,0,4
+Q,Which of the following is client centric consistency model,M,1
+A,Strict consistency,0,1
+A,Linear consistency,0,2
+A,Sequential consistency,0,3
+A,Read Your Writes,1,4
+Q,"Distributed e-mail database with distributed and replicated user-mailboxes, Is example of __________",M,1
+A,Monotonic Reads,1,1
+A,Monotonic Writes,0,2
+A,Read Your Writes,0,3
+A,Writes Follow Reads,0,4
+Q,"Writes done by a single process are seen by all other processes in the order in which they were issued, but writes from different processes may be seen in a different order by different processes.",M,1
+A,FIFO Consistency,1,1
+A,Causal Consistency,0,2
+A,Sequential Consistency,0,3
+A,Weak Consistency,0,4
+Q,_______consistency provides consistency gurantees for a single client with respect to the data stored by that client,M,1
+A,Data-centric,0,1
+A, Client centric,1,2
+A,Eventual,0,3
+A,Entry,0,4
+Q,___________ is a set of technologies for copying and distributing data and database objects from one database to another.,M,1
+A, Replication,1,1
+A, Database Mirroring,0,2
+A, Log Shipping,0,3
+A,Consistency,0,4
+Q,_______is a property to consider in faulty distributed environments,M,1
+A, Replication,0,1
+A,recovery,1,2
+A,concurrency,0,3
+A, Consistency,0,4
+Q,"Fault tolerance is a ______ requirement that requires a system to continue to operate,even in the presence of faults",M,1
+A, Non-functional,1,1
+A, Functional,0,2
+A, Concurrent,0,3
+A,Redundant,0,4
+Q,"In Distributed system, _____ can be hidden",M,1
+A, Replication,1,1
+A, Fault tolerance,0,2
+A,concurrency,0,3
+A, Consistency,0,4
+Q,________consistency is fine if clients always access the same replica.,M,1
+A,Data-centric,0,1
+A,Client centric,0,2
+A, Eventual,1,3
+A, Entry,0,4
+Q,"In client-Initiated Replicas if there is return data from cache, it is termed as ------",M,1
+A,Cache hit,1,1
+A,Cache miss,0,2
+A,Cache place,0,3
+A,Cache loss,0,4
+Q,Select which is not a type of replica,M,1
+A,Client-Initiated Replicas,0,1
+A, Server-Initiated Replicas,0,2
+A,Permanent Replicas,0,3
+A,object initiated replica,1,4
+Q,"The --------are dynamically created at the request of the owner of the Distributed System",M,1
+A,Client-Initiated Replicas,0,1
+A, Server-Initiated Replicas,1,2
+A,Permanent Replicas,0,3
+A,object initiated replica,0,4
+Q,"The --------are initial set of replicas and  Other replicas can be created from them",M,1
+A,Client-Initiated Replicas,0,1
+A, Server-Initiated Replicas,0,2
+A,Permanent Replicas,1,3
+A,object initiated replica,0,4
+Q,The---------are caches and have temporary storage ,M,1
+A,Client-Initiated Replicas,1,1
+A, Server-Initiated Replicas,0,2
+A,Permanent Replicas,0,3
+A,object initiated replica,0,4
