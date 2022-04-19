@@ -77,7 +77,7 @@
     * application frameworks
     * operating systems
   * Q.16 Which one of the following is element of mobile design-
-    * **security**
-    * layout
+    * security
+    * **layout**
     * object orientation
     * application
