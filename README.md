@@ -1,5 +1,9 @@
 # sem8
 
+## VIVA
+
+### [CCL](notes/VIVA/CCL.md)
+
 ## IAT 2 MCQ
 
 ### [Finance Management (FM)](notes/IAT2/MCQ/fm.md)
