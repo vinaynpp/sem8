@@ -4,6 +4,10 @@
 
 ### [CCL](notes/VIVA/CCL.md)
 
+## IAT 1 Theory
+
+### [Human Machine Interaction (HMI)](notes/IAT1/Theory/hmi.md)
+
 ## IAT 2 MCQ
 
 ### [Finance Management (FM)](notes/IAT2/MCQ/fm.md)
