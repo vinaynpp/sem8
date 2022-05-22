@@ -3,6 +3,9 @@
 
 ### [Human Machine Interaction (HMI)](https://dynalist.io/d/HjSnAXulmh__dtM9Hw3re8lE#collapse&inline-images&theme=dark)
 
+### [Finance Management (FM)](https://dynalist.io/d/nUTHqk0iFmzLecr8dyjAef3s#collapse&inline-images&theme=dark)
+
+
 ## FULL SYLLABUS THEORY PRINTABLE
 
 ### [Human Machine Interaction (HMI)](notes/FULL/Theory/hmi.md)
