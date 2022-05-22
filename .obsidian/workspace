@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "25ae9733d79ae43d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d3e920db08ceb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/FULL/Theory/fm.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3efd02071cade4c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c52d02199f915af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "360331279e62f13e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "506be054a8a072e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8495e9caf7509a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01fd0a367ecbeca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db849a641bfffe0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/FULL/Theory/fm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74d3e920db08ceb1",
+  "lastOpenFiles": [
+    "notes/FULL/Theory/fm.md",
+    "notes/FULL/Theory/hmi.md",
+    "README.md"
+  ]
+}
