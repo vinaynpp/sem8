@@ -111,7 +111,16 @@
             * Debentures
             * Bonds
       * Money Market
-	      * 
+        * Organized Market which provides short term finance for business, banks and govt (Maturity:1 day to 1 year ) in large amounts and at a low cost
+        * Money Market Instruments:
+          * Treasury Bills, Commercial Paper, Certificate of Deposits etc.
+        * Money Market instruments must be:
+          * very safe, easy to withdraw and have low transaction fees
+        * Why do businesses need money markets?
+          * As a borrower:
+            * Short-term cash requirements till they get paid for goods/services provided (credit period). During that time, if they don’t have money, their business continuity will be adversely affected.
+          * As a lender:
+            * To invest surplus money and earn a little interest until it needs the money to pay rent, utilities, wages etc
       * Foreign Currency Market
     * Financial Institutions:
       * Meaning
@@ -202,3 +211,5 @@
         * Gordon‘s Approach
         * Walter‘s Approach
         * Modigliani-Miller Approach
+
+
